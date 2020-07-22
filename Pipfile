@@ -7,16 +7,10 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
-django = "*"
 pandas = "*"
 selenium = "*"
 bs4="*"
 numpy="*"
-dnspython="*"
-djangorestframework = "*"
-djongo = "*"
-django-cors-headers = "*"
-djangotoolbox = "*"
 
 [requires]
 python_version = "3.8"
